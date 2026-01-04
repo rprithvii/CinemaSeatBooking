@@ -1,0 +1,12 @@
+# --- Core Application ---
+# No external libraries needed for basic OOP, but these are helpful as you grow:
+pandas==2.1.0        # Great for managing seat layouts as dataframes
+tabulate==0.9.0      # Beautifully formats your seat maps in the console
+
+# --- Testing & Prototyping ---
+ipykernel            # Allows your Jupyter Notebooks to use this environment
+notebook             # The Jupyter Notebook interface
+pytest==7.4.0        # The standard tool for testing your OOP classes
+
+# --- Utilities ---
+python-dotenv        # Helps manage environment variables (like file paths)
