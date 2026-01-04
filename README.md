@@ -20,3 +20,38 @@ CinemaSeatBooking/
 ├── models.py         # Contains Seat and Cinema classes
 ├── main.py           # Application entry point and testing logic
 └── README.md         # Project documentation
+```
+
+## 🚀 Getting Started
+Prerequisites
+Python 3.10+
+
+[Optional] Anaconda/Conda
+
+Installation & Setup
+1. Clone the repository:
+```
+git clone [https://github.com/rprithvii/CinemaSeatBooking.git](https://github.com/rprithvii/CinemaSeatBooking.git)
+cd CinemaSeatBooking
+```
+
+2. Create and activate the virtual environment:
+```
+python -m venv .venv
+# Windows:
+.venv\Scripts\activate
+# Mac/Linux:
+source .venv/bin/activate
+```
+3. Run the application:
+```
+python main.py
+```
+## 🕹️ Usage
+The system initializes a 3x3 grid by default.
+
+[ ] represents an available seat.
+
+[X] represents a booked seat.
+
+The Cinema class provides methods to display the layout and book seats by passing row and column integers.
