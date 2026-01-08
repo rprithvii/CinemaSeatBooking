@@ -2,6 +2,9 @@
 
 A Python-based terminal application designed to practice **Object-Oriented Programming (OOP)** principles. This project simulates a cinema theater where users can view a seating layout and book specific seats using a coordinate system.
 
+## Play with the program
+Play with the game on replit: https://replit.com/@mailprithvi/CinemaSeatBooking
+
 ## 🧠 OOP Concepts Applied
 
 This project was built to demonstrate several core programming patterns:
